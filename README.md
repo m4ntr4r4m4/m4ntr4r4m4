@@ -1,10 +1,22 @@
 ### Hi there 👋
 
-My Name's AbdelGhani Hammoud, I am a 42 starfleet Cadet.
-I consider myself Computers friend from very young age, also i love music, photography and handmade stuff. "like MR GARAK (ST DS9) I am a man of many talents".
-and because i ve been living on Ferenginar I learned the the Holy Rules of acquisition revised by the Grand Nagus Quark.
-"A wise man can hear profit in the wind." Rule #22, that's why i launched a startup just after high school not a big deal, just the usual commerce.
+My Name's AbdelGhani Hammoud; I am a 42 Starfleet Cadet.
 
+Before following my passion for Code I was studying sound Engineering , i worked on some music festivals, studios & movies.
+
+I consider myself a Computers friend from a very young age, also I love music, photography and handmade stuff. "like MR GARAK (ST DS9) I am a man of many talents".
+
+check here some of my amateur [artworks](https://www.instagram.com/m4ntr4_r4m4/)
+
+And because I've been living on Ferenginar, I learned the Holy Rules of acquisition revised by the Grand Nagus Quark.
+
+"A wise man can hear profit in the wind." Rule #22, that's why I launched a startup just after finishing high school, not a big deal, just the usual ferengi  commerce. 
+
+You can check it at this [LINK](moroccan-carpet.com).
+
+
+In case you don't Know Mr ![Garak](https://memory-alpha.fandom.com/wiki/Elim_Garak?file=Elim_Garak%252C_2375.jpg)
+the Grand Nagus Quark >>>
 
 <!--
 **m4ntr4r4m4/m4ntr4r4m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
