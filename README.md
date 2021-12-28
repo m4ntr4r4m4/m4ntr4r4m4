@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name's AbdelGhani Hammoud, I am a 42 starfleet Cadet.
+I consider myself Computers friend from very young age, also i love music, photography and handmade stuff. "like MR GARAK (ST DS9) I am a man of many talents".
+and because i ve been living on Ferenginar I learned the the Holy Rules of acquisition revised by the Grand Nagus Quark.
+"A wise man can hear profit in the wind." Rule #22, that's why i launched a startup just after high school not a big deal, just the usual commerce.
+
+
 <!--
 **m4ntr4r4m4/m4ntr4r4m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
