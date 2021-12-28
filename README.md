@@ -15,8 +15,9 @@ And because I've been living on Ferenginar, I learned the Holy Rules of acquisit
 You can check it at this [LINK](moroccan-carpet.com).
 
 
-In case you don't Know Mr ![Garak](https://memory-alpha.fandom.com/wiki/Elim_Garak?file=Elim_Garak%252C_2375.jpg)
-the Grand Nagus Quark >>>
+In case you don't Know Mr Garak & The Grand Nagus Quark ![Garak](https://github.com/m4ntr4r4m4/m4ntr4r4m4/blob/main/Garak_and_his_lies.jpeg)
+
+![Quark](https://github.com/m4ntr4r4m4/m4ntr4r4m4/blob/main/tumblr_oce7v5FrK91qj6sk2o1_500.gif)
 
 <!--
 **m4ntr4r4m4/m4ntr4r4m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
