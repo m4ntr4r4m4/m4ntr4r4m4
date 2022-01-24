@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div class="header"  >
+    <img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=ahammoud"/>    
+</div class="header">
 My Name's AbdelGhani Hammoud; I am a 42 Starfleet Cadet.
 
 Before following my passion for Code I was studying sound Engineering , i worked on some music festivals, studios & movies.
