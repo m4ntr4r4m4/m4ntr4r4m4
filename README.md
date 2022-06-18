@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ahammoud's 42 stats](https://badge42.herokuapp.com/api/stats/ahammoud)]
+[![ahammoud's 42 stats](https://badge42.vercel.app/api/v2/cl4k2bd47001609jrzoyr155q/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 My Name's AbdelGhani Hammoud; I am a 42 Starfleet Cadet.
 
