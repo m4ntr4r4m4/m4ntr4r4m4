@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![ahammoud's 42 stats](https://badge42.vercel.app/api/v2/cl4k2bd47001609jrzoyr155q/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
-
+[![<ahammoud>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ahammoud>)](https://github.com/oakoudad/badge42)
 My Name's AbdelGhani Hammoud; I am a 42 Starfleet Cadet.
 
 Before following my passion for Code I was studying sound Engineering , i worked on some music festivals, studios & movies.
