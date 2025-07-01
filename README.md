@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/ahammoud)](https://github.com/oakoudad/badge42)
 My Name's AbdelGhani Hammoud; I am a 42 Starfleet Cadet.
 
 Before following my passion for Code I was studying sound Engineering , i worked on some music festivals, studios & movies.
